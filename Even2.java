@@ -1,5 +1,5 @@
 import java.util.*;
-class Even1
+class Even2
 {
 public staic void main(String args[])
 {
